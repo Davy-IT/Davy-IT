@@ -11,7 +11,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Configuring On premises Active Directory within Azure VMs| <a href="https://github.com/Davy-IT/Microsoft-Azure-VMs">Microsoft Azure creation</a>|
+| Configuring On premises Active Directory within Azure VMs| <a href="https://github.com/Davy-IT/Microsoft-Azure">Microsoft Azure creation</a>|
 | Network security group(NSGs) and inspecting Network protocols | <a href="https://github.com/Davy-IT/Microsoft-Azure-VMs">Microsoft Azure</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
