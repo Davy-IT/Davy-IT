@@ -13,7 +13,7 @@
 |-----------------------------------------------|----------------------------|
 | Configuring On premises Active Directory within Azure VMs| <a href="https://github.com/Davy-IT/Microsoft-Azure">Microsoft Azure creation</a>|
 | Network security group(NSGs) and inspecting Network protocols | <a href="https://github.com/Davy-IT/Microsoft-Azure-VMs">Microsoft Azure</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| osTicket - Ticket Lifecycle: Intake Through Resolution         | <a href="https://github.com/Davy-IT/osTicket---Ticket-Lifecycle">osTicket Lifecycle</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
